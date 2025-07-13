@@ -2,8 +2,11 @@
         <ul align="center">
                 <h1>Hello, i'm Reinhard, Charlie's Boyfriend</h1>
 </div>
+<div>
+        <ul align="center">
+                <h1>I love Charlie with all my Heart.</h1>
+</div>
 
-I love Charlie with all my Heart.
 
 <div>
         <h3>Technologies</h3>
